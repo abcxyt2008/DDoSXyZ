@@ -12,8 +12,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Username: huuan<br>
+> Password: 2k8<br>
 <p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -51,20 +51,23 @@ One star = continuously updating multiple methods
 # Setup
 ```sh
 Debain, Ubuntu (Ubuntu 20.04 better):
-sudo apt-get install git -y
-sudo apt-get install golang -y
-sudo apt-get install perl -y
-sudo apt-get install python3 -y
-sudo apt-get install python2 -y
-sudo apt-get install python3-pip -y
+apt update -y
+apt upgrade -y
+apt-get install git -y
+apt-get install golang -y
+apt-get install perl -y
+apt-get install python3 -y
+apt-get install python2 -y
+apt-get install python3-pip -y
+apt-get íntall curl -y
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -;sudo apt -y install nodejs
 
 How to use: 
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/abcxyt2008/DDoSXyZ
+cd DDoSXyZ/
 npm i requests https-proxy-agent crypto-random-string events fs net cloudscraper request hcaptcha-solver randomstring cluster cloudflare-bypasser http http2 crypto tls
 pip3 install -r requirements.txt
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
