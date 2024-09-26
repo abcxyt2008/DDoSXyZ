@@ -60,6 +60,8 @@ apt-get install python3 -y
 apt-get install python2 -y
 apt-get install python3-pip -y
 apt-get íntall curl -y
+apt install nodejs -y
+apt install nodejs-ltd
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -;sudo apt -y install nodejs
 
 How to use: 
